@@ -1,5 +1,5 @@
 # [快应用](https://www.quickapp.cn/) Demo
-![[](https://www.quickapp.cn/assets/images/home/logo.jpg)](https://www.quickapp.cn/)
+[![](https://www.quickapp.cn/assets/images/home/logo.jpg)](https://www.quickapp.cn/)
 > 尝鲜
 
 ### 注意：
